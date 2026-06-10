@@ -1,5 +1,6 @@
-# apple-notes-gathered
-This is the Apple information that I've gathered over time. It's sloppy, but could be of use. ** -verify- ** this is more like breadcrumbs than a bible.
+# macOS-iOS-notes-gathered
+This is the Apple information that I've gathered over time. It's sloppy, but could be of use. ** -verify- ** this is more like breadcrumbs than a bible and shouldn't
+be blindly followed. It was and likely will always be a work in progress.
 
 Feel free to update this if you see any inaccuracies or if some things are outright wrong.
 
